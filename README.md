@@ -1,6 +1,6 @@
 
 
-Wallee Payment for Shopware 6
+Wallee Payment for Shopware 6.2.3 - 6.3.*
 =============================
 
 The Wallee Payment plugin wraps around the Wallee API. This library facilitates your interaction with various services such as transactions.
@@ -61,8 +61,8 @@ tail -f var/log/wallee_payment*.log
 
 ## Documentation
 
-[Documentation](https://plugin-documentation.wallee.com/wallee-payment/shopware-6-3/3.1.0/docs/en/documentation.html)
+[Documentation](https://plugin-documentation.wallee.com/wallee-payment/shopware-6-3/3.1.1/docs/en/documentation.html)
 
 ## License
 
-Please see the [license file](https://github.com/wallee-payment/shopware-6/blob/master/LICENSE.txt) for more information.
+Please see the [license file](https://github.com/wallee-payment/shopware-6-3/blob/master/LICENSE.txt) for more information.

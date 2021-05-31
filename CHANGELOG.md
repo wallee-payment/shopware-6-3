@@ -1,3 +1,6 @@
+# 3.1.1
+- Use shopware-6-3 repo
+
 # 3.1.0
 - Support for Custom Products plugin
 
